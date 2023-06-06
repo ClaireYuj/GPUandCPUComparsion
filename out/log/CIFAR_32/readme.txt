@@ -1,0 +1,1 @@
+This directory is to resize the cifar data in 32-32

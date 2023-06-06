@@ -1,0 +1,77 @@
+Epoch     0, Loss:  2.40, Accuracy:   7.03%, Time usage:  0m 20s .
+Epoch     0, Loss:  1.63, Accuracy:  34.38%, Time usage:  0m 23s .
+Epoch     1, Loss:  1.85, Accuracy:  33.59%, Time usage:  0m 40s .
+Epoch     1, Loss:  1.39, Accuracy:  53.12%, Time usage:  0m 43s .
+Epoch     2, Loss:  1.63, Accuracy:  45.31%, Time usage:  0m 58s .
+Epoch     2, Loss:  1.50, Accuracy:  45.31%, Time usage:  1m  1s .
+Epoch     3, Loss:  1.48, Accuracy:  50.00%, Time usage:  1m 16s .
+Epoch     3, Loss:  1.55, Accuracy:  39.84%, Time usage:  1m 19s .
+Epoch     4, Loss:  1.44, Accuracy:  50.78%, Time usage:  1m 34s .
+Epoch     4, Loss:  1.32, Accuracy:  49.22%, Time usage:  1m 37s .
+Epoch     5, Loss:  1.24, Accuracy:  60.16%, Time usage:  1m 52s .
+Epoch     5, Loss:  1.32, Accuracy:  51.56%, Time usage:  1m 55s .
+Epoch     6, Loss:  1.22, Accuracy:  54.69%, Time usage:  2m 11s .
+Epoch     6, Loss:  1.14, Accuracy:  59.38%, Time usage:  2m 14s .
+Epoch     7, Loss:  1.33, Accuracy:  52.34%, Time usage:  2m 30s .
+Epoch     7, Loss:  1.25, Accuracy:  57.03%, Time usage:  2m 32s .
+Epoch     8, Loss:  1.33, Accuracy:  50.00%, Time usage:  2m 48s .
+Epoch     8, Loss:  1.20, Accuracy:  59.38%, Time usage:  2m 51s .
+Epoch     9, Loss:  1.30, Accuracy:  56.25%, Time usage:  3m  6s .
+Epoch     9, Loss:  1.30, Accuracy:  54.69%, Time usage:  3m  9s .
+Epoch    10, Loss:  1.17, Accuracy:  56.25%, Time usage:  3m 25s .
+Epoch    10, Loss:  1.14, Accuracy:  59.38%, Time usage:  3m 27s .
+Epoch    11, Loss:  1.34, Accuracy:  55.47%, Time usage:  3m 43s .
+Epoch    11, Loss:  1.21, Accuracy:  53.91%, Time usage:  3m 46s .
+Epoch    12, Loss:  1.16, Accuracy:  59.38%, Time usage:  4m  1s .
+Epoch    12, Loss:  1.25, Accuracy:  54.69%, Time usage:  4m  4s .
+Epoch    13, Loss:  1.30, Accuracy:  50.78%, Time usage:  4m 19s .
+Epoch    13, Loss:  1.01, Accuracy:  57.81%, Time usage:  4m 22s .
+Epoch    14, Loss:  1.35, Accuracy:  50.78%, Time usage:  4m 37s .
+Epoch    14, Loss:  1.15, Accuracy:  56.25%, Time usage:  4m 40s .
+Epoch    15, Loss:  1.23, Accuracy:  56.25%, Time usage:  4m 55s .
+Epoch    15, Loss:  1.27, Accuracy:  50.00%, Time usage:  4m 58s .
+Epoch    16, Loss:  1.29, Accuracy:  53.91%, Time usage:  5m 13s .
+Epoch    16, Loss:  1.34, Accuracy:  56.25%, Time usage:  5m 16s .
+Epoch    17, Loss:  1.31, Accuracy:  56.25%, Time usage:  5m 31s .
+Epoch    17, Loss:  1.03, Accuracy:  65.62%, Time usage:  5m 34s .
+Epoch    18, Loss:  1.20, Accuracy:  57.81%, Time usage:  5m 50s .
+Epoch    18, Loss:  1.02, Accuracy:  59.38%, Time usage:  5m 52s .
+Epoch    19, Loss:  1.26, Accuracy:  56.25%, Time usage:  6m  9s .
+Epoch    19, Loss:  1.16, Accuracy:  61.72%, Time usage:  6m 11s .
+Epoch    20, Loss:  1.21, Accuracy:  60.16%, Time usage:  6m 27s .
+Epoch    20, Loss:  1.06, Accuracy:  67.97%, Time usage:  6m 30s .
+Epoch    21, Loss:  1.30, Accuracy:  54.69%, Time usage:  6m 46s .
+Epoch    21, Loss:  1.07, Accuracy:  66.41%, Time usage:  6m 48s .
+Epoch    22, Loss:  0.97, Accuracy:  67.19%, Time usage:  7m  4s .
+Epoch    23, Loss:  1.22, Accuracy:  58.59%, Time usage:  7m 20s .
+Epoch    23, Loss:  1.32, Accuracy:  56.25%, Time usage:  7m 23s .
+Epoch    24, Loss:  1.21, Accuracy:  60.94%, Time usage:  7m 38s .
+Epoch    24, Loss:  1.13, Accuracy:  58.59%, Time usage:  7m 41s .
+Epoch    25, Loss:  1.04, Accuracy:  59.38%, Time usage:  7m 57s .
+Epoch    25, Loss:  1.08, Accuracy:  61.72%, Time usage:  7m 59s .
+Epoch    26, Loss:  1.05, Accuracy:  66.41%, Time usage:  8m 15s .
+Epoch    26, Loss:  0.97, Accuracy:  59.38%, Time usage:  8m 18s .
+Epoch    27, Loss:  0.95, Accuracy:  67.19%, Time usage:  8m 34s .
+Epoch    27, Loss:  1.01, Accuracy:  64.84%, Time usage:  8m 36s .
+Epoch    28, Loss:  0.97, Accuracy:  66.41%, Time usage:  8m 52s .
+Epoch    28, Loss:  0.99, Accuracy:  61.72%, Time usage:  8m 55s .
+Epoch    29, Loss:  1.34, Accuracy:  56.25%, Time usage:  9m 10s .
+Epoch    29, Loss:  1.14, Accuracy:  61.72%, Time usage:  9m 13s .
+Step 11730, Loss:  1.06, Accuracy:  38.28%, Time usage:  9m 13s .
+ Time usage of train:  9m 13s .
+Step     0, Loss:  0.56, Accuracy:  79.69%, Time usage:  0m 12s .
+Step   200, Loss:  0.85, Accuracy:  68.75%, Time usage:  0m 14s .
+Step     0, Loss:  0.74, Accuracy:  73.44%, Time usage:  0m 10s .
+Test Loss:  0.81, Accuracy: 72.20%
+test correctL:7220, len of test:10000
+Time Usage:  0.22 mins.
+The accuracy of plane: 0.776
+The accuracy of car: 0.858
+The accuracy of bird: 0.591
+The accuracy of cat: 0.399
+The accuracy of deer: 0.721
+The accuracy of dog: 0.621
+The accuracy of frog: 0.783
+The accuracy of horse: 0.805
+The accuracy of ship: 0.833
+The accuracy of truck: 0.833

@@ -1,0 +1,165 @@
+Epoch:     0 processes:    0 Step     0, Loss:  2.35, Accuracy:  10.16%, Time usage:  0m 11s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.05, Accuracy:  98.44%, Time usage:  0m 16s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.09, Accuracy:  97.66%, Time usage:  0m 20s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.06, Accuracy:  99.22%, Time usage:  0m 24s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.02, Accuracy:  99.22%, Time usage:  0m 29s .
+Epoch:     0 processes:    1 Step     0, Loss:  1.05, Accuracy:  87.50%, Time usage:  0m 12s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.09, Accuracy:  98.44%, Time usage:  0m 16s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.12, Accuracy:  95.31%, Time usage:  0m 21s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.01, Accuracy: 100.00%, Time usage:  0m 25s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.04, Accuracy:  98.44%, Time usage:  0m 29s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.01, Accuracy: 100.00%, Time usage:  0m 40s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  0m 45s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.01, Accuracy: 100.00%, Time usage:  0m 49s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.02, Accuracy: 100.00%, Time usage:  0m 54s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  0m 58s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.01, Accuracy: 100.00%, Time usage:  0m 41s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.01, Accuracy: 100.00%, Time usage:  0m 45s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.06, Accuracy:  98.44%, Time usage:  0m 50s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.02, Accuracy:  99.22%, Time usage:  0m 54s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.01, Accuracy: 100.00%, Time usage:  0m 59s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.02, Accuracy:  98.44%, Time usage:  1m  8s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.05, Accuracy:  99.22%, Time usage:  1m 13s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.01, Accuracy: 100.00%, Time usage:  1m 17s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.01, Accuracy:  99.22%, Time usage:  1m 21s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.02, Accuracy:  99.22%, Time usage:  1m 26s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.04, Accuracy:  98.44%, Time usage:  1m  9s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.04, Accuracy:  98.44%, Time usage:  1m 14s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.01, Accuracy: 100.00%, Time usage:  1m 18s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  1m 22s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  1m 26s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.02, Accuracy:  99.22%, Time usage:  1m 37s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  1m 42s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  1m 47s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.01, Accuracy:  99.22%, Time usage:  1m 52s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.01, Accuracy: 100.00%, Time usage:  1m 57s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.02, Accuracy:  99.22%, Time usage:  1m 38s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.01, Accuracy:  99.22%, Time usage:  1m 43s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.01, Accuracy:  99.22%, Time usage:  1m 48s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  1m 53s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  1m 57s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  2m  7s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.03, Accuracy:  99.22%, Time usage:  2m 12s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.01, Accuracy:  99.22%, Time usage:  2m 16s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  2m 21s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.03, Accuracy:  99.22%, Time usage:  2m 25s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  2m  8s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  2m 12s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.02, Accuracy:  98.44%, Time usage:  2m 17s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.01, Accuracy:  99.22%, Time usage:  2m 21s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.01, Accuracy: 100.00%, Time usage:  2m 25s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  2m 35s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.01, Accuracy: 100.00%, Time usage:  2m 40s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.05, Accuracy:  98.44%, Time usage:  2m 45s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.01, Accuracy: 100.00%, Time usage:  2m 51s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  2m 56s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.03, Accuracy:  98.44%, Time usage:  2m 36s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  2m 41s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  2m 46s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.01, Accuracy:  99.22%, Time usage:  2m 51s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  2m 57s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m  8s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 13s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 18s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.01, Accuracy: 100.00%, Time usage:  3m 22s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 26s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m  9s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 13s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 18s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 22s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 27s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.03, Accuracy:  98.44%, Time usage:  3m 37s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 41s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 45s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 50s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 54s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 37s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 42s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.01, Accuracy:  99.22%, Time usage:  3m 46s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  3m 50s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.01, Accuracy:  99.22%, Time usage:  3m 54s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m  4s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m  9s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.04, Accuracy:  99.22%, Time usage:  4m 13s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 17s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 21s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m  5s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m  9s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 13s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.01, Accuracy:  99.22%, Time usage:  4m 18s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 22s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 32s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 36s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 40s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 45s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 50s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 32s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 37s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 41s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 46s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  4m 51s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m  2s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m  8s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 13s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 18s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 22s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m  3s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m  8s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 13s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 18s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 23s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 34s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 38s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 43s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 49s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 54s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 34s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 39s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 44s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 50s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  5m 54s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.01, Accuracy:  99.22%, Time usage:  6m  5s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m  9s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.02, Accuracy:  99.22%, Time usage:  6m 14s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 18s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.01, Accuracy:  99.22%, Time usage:  6m 23s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m  5s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 10s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 14s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 19s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 24s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 34s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 39s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 43s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 47s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 52s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 35s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 40s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 44s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 48s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  6m 53s .
+Epoch:     0 processes:    0 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  7m  3s .
+Epoch:   100 processes:    0 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  7m  8s .
+Epoch:   200 processes:    0 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  7m 12s .
+Epoch:   300 processes:    0 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  7m 17s .
+Epoch:   400 processes:    0 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  7m 21s .
+Epoch:     0 processes:    1 Step     0, Loss:  0.00, Accuracy: 100.00%, Time usage:  7m  4s .
+Epoch:   100 processes:    1 Step   100, Loss:  0.00, Accuracy: 100.00%, Time usage:  7m  8s .
+Epoch:   200 processes:    1 Step   200, Loss:  0.00, Accuracy: 100.00%, Time usage:  7m 13s .
+Epoch:   300 processes:    1 Step   300, Loss:  0.00, Accuracy: 100.00%, Time usage:  7m 17s .
+Epoch:   400 processes:    1 Step   400, Loss:  0.00, Accuracy: 100.00%, Time usage:  7m 21s .
+ Time usage of train:  7m 21s .
+Step     0, Loss:  0.05, Accuracy:  99.22%, Time usage:  0m  2s .
+Test Loss:  0.04, Accuracy: 99.16%
+test correctL:9916, len of test:10000
+Time Usage:  0.08 mins.
+The accuracy of plane: 0.996938775510204
+The accuracy of car: 0.9973568281938326
+The accuracy of bird: 0.9922480620155039
+The accuracy of cat: 0.996039603960396
+The accuracy of deer: 0.9887983706720977
+The accuracy of dog: 0.9899103139013453
+The accuracy of frog: 0.988517745302714
+The accuracy of horse: 0.9892996108949417
+The accuracy of ship: 0.9907597535934292
+The accuracy of truck: 0.9851337958374629

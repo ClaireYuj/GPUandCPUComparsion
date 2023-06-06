@@ -1,0 +1,6 @@
+acc lenet:{'cpu': 99.22, 'cpu_parallel': 99.16, 'gpu_and_cpu': 99.04, 'gpu_data_parallel': 99.07, 'gpu': 99.1}
+acc ModifiedLenet:{'cpu': 99.24, 'cpu_parallel': 99.3, 'gpu_and_cpu': 99.08, 'gpu_data_parallel': 99.12, 'gpu': 99.09}
+acc MobileNetV3:{'cpu': 98.82, 'cpu_parallel': 99.06, 'gpu_and_cpu': 99.03, 'gpu_data_parallel': 98.96, 'gpu': 98.77}
+time lenet:{'cpu': 453, 'cpu_parallel': 441, 'gpu_and_cpu': 204, 'gpu_data_parallel': 195, 'gpu': 184}
+time ModifiedLenet:{'cpu': 1323, 'cpu_parallel': 1274, 'gpu_and_cpu': 297, 'gpu_data_parallel': 246, 'gpu': 276}
+time MobileNetV3:{'cpu': 5156, 'cpu_parallel': 3667, 'gpu_and_cpu': 873, 'gpu_data_parallel': 901, 'gpu': 880}

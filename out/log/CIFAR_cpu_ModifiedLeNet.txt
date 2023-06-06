@@ -1,0 +1,133 @@
+Step     0, Loss:  2.46, Accuracy:  10.94%, Time usage:  0m 17s .
+Step   100, Loss:  1.73, Accuracy:  37.50%, Time usage:  0m 53s .
+Step   200, Loss:  1.58, Accuracy:  44.53%, Time usage:  1m 29s .
+Step   300, Loss:  1.56, Accuracy:  47.66%, Time usage:  2m  6s .
+Step   400, Loss:  1.38, Accuracy:  58.59%, Time usage:  3m  1s .
+Step   500, Loss:  1.30, Accuracy:  55.47%, Time usage:  3m 38s .
+Step   600, Loss:  1.30, Accuracy:  53.91%, Time usage:  4m 15s .
+Step   700, Loss:  1.12, Accuracy:  58.59%, Time usage:  4m 52s .
+Step   800, Loss:  1.36, Accuracy:  57.03%, Time usage:  5m 48s .
+Step   900, Loss:  1.07, Accuracy:  62.50%, Time usage:  6m 26s .
+Step  1000, Loss:  1.00, Accuracy:  65.62%, Time usage:  7m  4s .
+Step  1100, Loss:  0.92, Accuracy:  69.53%, Time usage:  7m 39s .
+Step  1200, Loss:  0.97, Accuracy:  65.62%, Time usage:  8m 31s .
+Step  1300, Loss:  0.91, Accuracy:  67.97%, Time usage:  9m  6s .
+Step  1400, Loss:  0.95, Accuracy:  68.75%, Time usage:  9m 41s .
+Step  1500, Loss:  0.87, Accuracy:  72.66%, Time usage: 10m 16s .
+Step  1600, Loss:  1.09, Accuracy:  62.50%, Time usage: 11m  9s .
+Step  1700, Loss:  1.00, Accuracy:  71.09%, Time usage: 11m 46s .
+Step  1800, Loss:  0.89, Accuracy:  68.75%, Time usage: 12m 21s .
+Step  1900, Loss:  0.86, Accuracy:  72.66%, Time usage: 12m 56s .
+Step  2000, Loss:  0.83, Accuracy:  71.09%, Time usage: 13m 49s .
+Step  2100, Loss:  1.04, Accuracy:  67.19%, Time usage: 14m 26s .
+Step  2200, Loss:  0.85, Accuracy:  70.31%, Time usage: 15m  4s .
+Step  2300, Loss:  0.87, Accuracy:  73.44%, Time usage: 15m 43s .
+Step  2400, Loss:  1.07, Accuracy:  69.53%, Time usage: 16m 36s .
+Step  2500, Loss:  0.82, Accuracy:  70.31%, Time usage: 17m 12s .
+Step  2600, Loss:  1.02, Accuracy:  65.62%, Time usage: 17m 47s .
+Step  2700, Loss:  0.97, Accuracy:  65.62%, Time usage: 18m 22s .
+Step  2800, Loss:  0.94, Accuracy:  67.97%, Time usage: 19m 14s .
+Step  2900, Loss:  0.69, Accuracy:  79.69%, Time usage: 19m 49s .
+Step  3000, Loss:  0.77, Accuracy:  78.12%, Time usage: 20m 25s .
+Step  3100, Loss:  0.69, Accuracy:  76.56%, Time usage: 21m  0s .
+Step  3200, Loss:  0.84, Accuracy:  74.22%, Time usage: 21m 52s .
+Step  3300, Loss:  0.63, Accuracy:  77.34%, Time usage: 22m 28s .
+Step  3400, Loss:  0.70, Accuracy:  75.78%, Time usage: 23m  4s .
+Step  3500, Loss:  0.66, Accuracy:  75.78%, Time usage: 23m 39s .
+Step  3600, Loss:  0.76, Accuracy:  75.00%, Time usage: 24m 31s .
+Step  3700, Loss:  0.96, Accuracy:  70.31%, Time usage: 25m  6s .
+Step  3800, Loss:  0.71, Accuracy:  74.22%, Time usage: 25m 41s .
+Step  3900, Loss:  0.97, Accuracy:  64.06%, Time usage: 26m 16s .
+Step  4000, Loss:  0.98, Accuracy:  67.19%, Time usage: 27m  8s .
+Step  4100, Loss:  0.83, Accuracy:  72.66%, Time usage: 27m 44s .
+Step  4200, Loss:  0.86, Accuracy:  71.09%, Time usage: 28m 19s .
+Step  4300, Loss:  0.63, Accuracy:  47.66%, Time usage: 28m 54s .
+Step  4400, Loss:  0.74, Accuracy:  73.44%, Time usage: 29m 45s .
+Step  4500, Loss:  0.67, Accuracy:  76.56%, Time usage: 30m 20s .
+Step  4600, Loss:  0.57, Accuracy:  79.69%, Time usage: 30m 55s .
+Step  4700, Loss:  0.67, Accuracy:  76.56%, Time usage: 31m 46s .
+Step  4800, Loss:  0.83, Accuracy:  70.31%, Time usage: 32m 21s .
+Step  4900, Loss:  0.66, Accuracy:  78.12%, Time usage: 32m 56s .
+Step  5000, Loss:  0.63, Accuracy:  78.91%, Time usage: 33m 31s .
+Step  5100, Loss:  0.71, Accuracy:  76.56%, Time usage: 34m 24s .
+Step  5200, Loss:  0.64, Accuracy:  75.78%, Time usage: 34m 59s .
+Step  5300, Loss:  0.77, Accuracy:  74.22%, Time usage: 35m 35s .
+Step  5400, Loss:  0.61, Accuracy:  79.69%, Time usage: 36m  9s .
+Step  5500, Loss:  0.56, Accuracy:  77.34%, Time usage: 37m  1s .
+Step  5600, Loss:  0.77, Accuracy:  71.09%, Time usage: 37m 35s .
+Step  5700, Loss:  0.63, Accuracy:  81.25%, Time usage: 38m  9s .
+Step  5800, Loss:  0.76, Accuracy:  73.44%, Time usage: 38m 43s .
+Step  5900, Loss:  0.58, Accuracy:  80.47%, Time usage: 39m 35s .
+Step  6000, Loss:  0.67, Accuracy:  74.22%, Time usage: 40m 10s .
+Step  6100, Loss:  0.62, Accuracy:  77.34%, Time usage: 40m 46s .
+Step  6200, Loss:  0.56, Accuracy:  81.25%, Time usage: 41m 21s .
+Step  6300, Loss:  0.61, Accuracy:  79.69%, Time usage: 42m 12s .
+Step  6400, Loss:  0.51, Accuracy:  83.59%, Time usage: 42m 47s .
+Step  6500, Loss:  0.59, Accuracy:  78.91%, Time usage: 43m 21s .
+Step  6600, Loss:  0.72, Accuracy:  76.56%, Time usage: 43m 56s .
+Step  6700, Loss:  0.56, Accuracy:  82.81%, Time usage: 44m 49s .
+Step  6800, Loss:  0.62, Accuracy:  81.25%, Time usage: 45m 24s .
+Step  6900, Loss:  0.69, Accuracy:  75.00%, Time usage: 46m  0s .
+Step  7000, Loss:  0.58, Accuracy:  77.34%, Time usage: 46m 36s .
+Step  7100, Loss:  0.59, Accuracy:  79.69%, Time usage: 47m 28s .
+Step  7200, Loss:  0.57, Accuracy:  75.78%, Time usage: 48m  4s .
+Step  7300, Loss:  0.60, Accuracy:  78.12%, Time usage: 48m 39s .
+Step  7400, Loss:  0.59, Accuracy:  78.12%, Time usage: 49m 14s .
+Step  7500, Loss:  0.54, Accuracy:  81.25%, Time usage: 50m  6s .
+Step  7600, Loss:  0.66, Accuracy:  78.91%, Time usage: 50m 40s .
+Step  7700, Loss:  0.54, Accuracy:  78.91%, Time usage: 51m 15s .
+Step  7800, Loss:  0.61, Accuracy:  82.81%, Time usage: 51m 49s .
+Step  7900, Loss:  0.61, Accuracy:  78.12%, Time usage: 52m 42s .
+Step  8000, Loss:  0.48, Accuracy:  85.16%, Time usage: 53m 17s .
+Step  8100, Loss:  0.49, Accuracy:  82.81%, Time usage: 53m 53s .
+Step  8200, Loss:  0.43, Accuracy:  85.16%, Time usage: 54m 29s .
+Step  8300, Loss:  0.49, Accuracy:  82.81%, Time usage: 55m 20s .
+Step  8400, Loss:  0.62, Accuracy:  77.34%, Time usage: 55m 54s .
+Step  8500, Loss:  0.54, Accuracy:  80.47%, Time usage: 56m 28s .
+Step  8600, Loss:  0.59, Accuracy:  78.12%, Time usage: 57m  3s .
+Step  8700, Loss:  0.44, Accuracy:  82.81%, Time usage: 57m 56s .
+Step  8800, Loss:  0.59, Accuracy:  81.25%, Time usage: 58m 30s .
+Step  8900, Loss:  0.58, Accuracy:  83.59%, Time usage: 59m  4s .
+Step  9000, Loss:  0.47, Accuracy:  88.28%, Time usage: 59m 56s .
+Step  9100, Loss:  0.48, Accuracy:  83.59%, Time usage: 60m 31s .
+Step  9200, Loss:  0.67, Accuracy:  78.91%, Time usage: 61m  6s .
+Step  9300, Loss:  0.75, Accuracy:  75.00%, Time usage: 61m 41s .
+Step  9400, Loss:  0.47, Accuracy:  84.38%, Time usage: 62m 32s .
+Step  9500, Loss:  0.62, Accuracy:  83.59%, Time usage: 63m  8s .
+Step  9600, Loss:  0.57, Accuracy:  82.03%, Time usage: 63m 43s .
+Step  9700, Loss:  0.51, Accuracy:  80.47%, Time usage: 64m 18s .
+Step  9800, Loss:  0.53, Accuracy:  82.03%, Time usage: 65m 11s .
+Step  9900, Loss:  0.64, Accuracy:  74.22%, Time usage: 65m 46s .
+Step 10000, Loss:  0.50, Accuracy:  82.03%, Time usage: 66m 20s .
+Step 10100, Loss:  0.63, Accuracy:  80.47%, Time usage: 66m 55s .
+Step 10200, Loss:  0.54, Accuracy:  82.81%, Time usage: 67m 47s .
+Step 10300, Loss:  0.51, Accuracy:  82.03%, Time usage: 68m 22s .
+Step 10400, Loss:  0.52, Accuracy:  82.81%, Time usage: 68m 58s .
+Step 10500, Loss:  0.55, Accuracy:  83.59%, Time usage: 69m 33s .
+Step 10600, Loss:  0.44, Accuracy:  84.38%, Time usage: 70m 25s .
+Step 10700, Loss:  0.69, Accuracy:  78.12%, Time usage: 70m 59s .
+Step 10800, Loss:  0.63, Accuracy:  80.47%, Time usage: 71m 33s .
+Step 10900, Loss:  0.56, Accuracy:  81.25%, Time usage: 72m  7s .
+Step 11000, Loss:  0.48, Accuracy:  86.72%, Time usage: 73m  0s .
+Step 11100, Loss:  0.39, Accuracy:  85.94%, Time usage: 73m 34s .
+Step 11200, Loss:  0.51, Accuracy:  82.03%, Time usage: 74m  8s .
+Step 11300, Loss:  0.49, Accuracy:  85.94%, Time usage: 74m 42s .
+Step 11400, Loss:  0.38, Accuracy:  86.72%, Time usage: 75m 33s .
+Step 11500, Loss:  0.39, Accuracy:  88.28%, Time usage: 76m  7s .
+Step 11600, Loss:  0.58, Accuracy:  79.69%, Time usage: 76m 41s .
+Step 11700, Loss:  0.40, Accuracy:  85.94%, Time usage: 77m 16s .
+ Time usage of train: 77m 16s .
+Step     0, Loss:  0.71, Accuracy:  74.22%, Time usage:  0m 14s .
+Test Loss:  0.64, Accuracy: 79.55%
+test correctL:7955, len of test:10000
+Time Usage:  0.43 mins.
+The accuracy of plane: 0.826
+The accuracy of car: 0.88
+The accuracy of bird: 0.704
+The accuracy of cat: 0.642
+The accuracy of deer: 0.749
+The accuracy of dog: 0.73
+The accuracy of frog: 0.84
+The accuracy of horse: 0.84
+The accuracy of ship: 0.868
+The accuracy of truck: 0.876
